@@ -1,6 +1,6 @@
 {
   "dealership": "Kia Victoria",
-  "generated_at": "2026-09-25T01:52:15",
+  "generated_at": "2026-10-08T14:40:06",
   "vehicle_count": 22,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -14,7 +14,9 @@
       "source_url": "https://www.kiavictoria.ca/inventory/2017-subaru-forester-i-touring-DORg5LLUR26RqQz3j5lUCQvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2017-subaru-forester-i-touring-DORg5LLUR26RqQz3j5lUCQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:55:18",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "Used2017SubaruForesteri Touring",
@@ -25,7 +27,9 @@
       "source_url": "https://www.kiavictoria.ca/inventory/2017-subaru-forester-i-touring-Ko3O3onsRGifsFpPq1zdfwvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2017-subaru-forester-i-touring-Ko3O3onsRGifsFpPq1zdfwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:55:30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "Used2019NissanMuranoS",
@@ -36,7 +40,9 @@
       "source_url": "https://www.kiavictoria.ca/inventory/2019-nissan-murano-s-x4jwWnuiRuqmWFMjvTCdlwvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2019-nissan-murano-s-x4jwWnuiRuqmWFMjvTCdlwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:55:39",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "Used2022KiaSoulGT-Line Limited",
@@ -47,7 +53,9 @@
       "source_url": "https://www.kiavictoria.ca/inventory/2022-kia-soul-gt-line-limited-FF5cCtVbQoyhs3VJa4LNRAvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2022-kia-soul-gt-line-limited-FF5cCtVbQoyhs3VJa4LNRAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:55:51",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "Used2022TeslaModel 3Long Range",
@@ -58,7 +66,9 @@
       "source_url": "https://www.kiavictoria.ca/inventory/2022-tesla-model-3-long-range-l59VjmXpSFKV6mD5TIIqNAvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2022-tesla-model-3-long-range-l59VjmXpSFKV6mD5TIIqNAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:56:01",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "Used2023FordEscapePHEV",
@@ -69,7 +79,9 @@
       "source_url": "https://www.kiavictoria.ca/inventory/2023-ford-escape-phev-UWTjzUGASga088yP6QuiBQvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2023-ford-escape-phev-UWTjzUGASga088yP6QuiBQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:56:14",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "Used2023FordMustang Mach-EPremium",
@@ -80,7 +92,9 @@
       "source_url": "https://www.kiavictoria.ca/inventory/2023-ford-mustang-mach-e-premium-wXSbbQpERhKzIwJeguvJEwvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2023-ford-mustang-mach-e-premium-wXSbbQpERhKzIwJeguvJEwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:56:26",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "Used2023KiaForteEX",
@@ -91,7 +105,9 @@
       "source_url": "https://www.kiavictoria.ca/inventory/2023-kia-forte-ex-N1pIJJ3tSVaw3cwvkphWdwvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2023-kia-forte-ex-N1pIJJ3tSVaw3cwvkphWdwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:56:37",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "Used2024KiaSportageEX Premium",
@@ -102,7 +118,9 @@
       "source_url": "https://www.kiavictoria.ca/inventory/2024-kia-sportage-ex-premium-oIoPEmnWTzKNbXPBbCntVgvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2024-kia-sportage-ex-premium-oIoPEmnWTzKNbXPBbCntVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:56:46",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "Used2025KiaSoulEX Premium",
@@ -113,7 +131,9 @@
       "source_url": "https://www.kiavictoria.ca/inventory/2025-kia-soul-ex-premium-vNXd0NzAQ4K9gAOlYcgUSQvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2025-kia-soul-ex-premium-vNXd0NzAQ4K9gAOlYcgUSQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:56:58",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "Used2026KiaSportageEX",
@@ -124,7 +144,9 @@
       "source_url": "https://www.kiavictoria.ca/inventory/2026-kia-sportage-ex-cwEXS3UpSOu9ZyJuMs9rWgvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2026-kia-sportage-ex-cwEXS3UpSOu9ZyJuMs9rWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T00:57:10",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "New2025KiaSorentoEX",
@@ -136,7 +158,9 @@
       "dealer_url": "https://www.kiavictoria.ca/inventory/2025-kia-sorento-ex-v44KJjpVS0exZRS86KJl7Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T01:50:03",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "New2026KiaEV9Land",
@@ -148,7 +172,9 @@
       "dealer_url": "https://www.kiavictoria.ca/inventory/2026-kia-ev9-land-Xb8JjDVXTySx2DDob7hmpgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T01:50:16",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "New2026KiaK4 HatchbackGT-Line Turbo Limited",
@@ -160,7 +186,9 @@
       "dealer_url": "https://www.kiavictoria.ca/inventory/2026-kia-k4-hatchback-gt-line-turbo-limited-Us58eMRLRxu37GFb2Z1cggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T01:50:28",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "New2026KiaK4LX",
@@ -172,7 +200,9 @@
       "dealer_url": "https://www.kiavictoria.ca/inventory/2026-kia-k4-lx-45XfNeq5TmCFhVj1tNAQPQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T01:50:39",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWave",
@@ -184,7 +214,9 @@
       "dealer_url": "https://www.kiavictoria.ca/inventory/2026-kia-niro-ev-wave-lJZosVJCRGGuhB79gwN8OQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T01:50:50",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSorento HybridLX",
@@ -196,7 +228,9 @@
       "dealer_url": "https://www.kiavictoria.ca/inventory/2026-kia-sorento-hybrid-lx-MYZQiTnxSkq391wXPLVKogvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T01:51:03",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSorento HybridSX",
@@ -208,7 +242,9 @@
       "dealer_url": "https://www.kiavictoria.ca/inventory/2026-kia-sorento-hybrid-sx-qZIOyIc7SZybBMVvTJbZdwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T01:51:15",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -220,7 +256,9 @@
       "dealer_url": "https://www.kiavictoria.ca/inventory/2026-kia-sportage-ex-nF3bDwoZQXSc9PM0PRSwWQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T01:51:25",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -232,7 +270,9 @@
       "dealer_url": "https://www.kiavictoria.ca/inventory/2026-kia-sportage-ex-sqLz6y14T4iFBUtZxwt1rwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T01:51:39",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -244,7 +284,9 @@
       "dealer_url": "https://www.kiavictoria.ca/inventory/2026-kia-sportage-lx-i7lVuAqASgykxMBwvQnK8Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T01:51:52",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageX-Line",
@@ -256,7 +298,9 @@
       "dealer_url": "https://www.kiavictoria.ca/inventory/2026-kia-sportage-x-line-qxFMPpM9TfOu8tNASS7fSAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T01:52:06",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     }
   ]
 }
