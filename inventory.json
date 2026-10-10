@@ -1,7 +1,7 @@
 {
   "dealership": "Kia Victoria",
-  "generated_at": "2026-10-09T09:26:13",
-  "vehicle_count": 41,
+  "generated_at": "2026-10-10T11:13:57",
+  "vehicle_count": 44,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13,7 +13,7 @@
       "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/5ec01d0f9705.html",
       "source_url": "https://www.kiavictoria.ca/inventory/2015-kia-rio-ex-DnG3SWiHSyui6WufHKWt0Qvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2015-kia-rio-ex-DnG3SWiHSyui6WufHKWt0Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:17:31",
+      "last_verified": "2026-10-10T11:11:49",
       "condition": "used",
       "city": "Victoria",
       "province": "BC"
@@ -26,7 +26,7 @@
       "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/4ec83e2a88cd.html",
       "source_url": "https://www.kiavictoria.ca/inventory/2017-kia-sportage-lx-mJd6BDlmQzmpqdnycoNCzgvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2017-kia-sportage-lx-mJd6BDlmQzmpqdnycoNCzgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:17:43",
+      "last_verified": "2026-10-10T11:11:58",
       "condition": "used",
       "city": "Victoria",
       "province": "BC"
@@ -39,7 +39,7 @@
       "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/3815945e73d2.html",
       "source_url": "https://www.kiavictoria.ca/inventory/2017-nissan-armada-platinum-edition-uY2dwJCkRDGxJrZJflPKpwvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2017-nissan-armada-platinum-edition-uY2dwJCkRDGxJrZJflPKpwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:17:55",
+      "last_verified": "2026-10-10T11:12:09",
       "condition": "used",
       "city": "Victoria",
       "province": "BC"
@@ -52,7 +52,7 @@
       "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/7c9bfa0642eb.html",
       "source_url": "https://www.kiavictoria.ca/inventory/2017-subaru-forester-i-touring-DORg5LLUR26RqQz3j5lUCQvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2017-subaru-forester-i-touring-DORg5LLUR26RqQz3j5lUCQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:19:42",
+      "last_verified": "2026-10-10T11:13:52",
       "condition": "used",
       "city": "Victoria",
       "province": "BC"
@@ -78,7 +78,7 @@
       "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/186a68a780df.html",
       "source_url": "https://www.kiavictoria.ca/inventory/2018-toyota-rav4-xle-nGEA9CrxSNmME4fFH5zVawvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2018-toyota-rav4-xle-nGEA9CrxSNmME4fFH5zVawvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:18:06",
+      "last_verified": "2026-10-10T11:12:20",
       "condition": "used",
       "city": "Victoria",
       "province": "BC"
@@ -91,7 +91,7 @@
       "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/f676179c55a0.html",
       "source_url": "https://www.kiavictoria.ca/inventory/2019-acura-rdx-a-spec-CZ57mWDqTtajjpifFVUz5Avdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2019-acura-rdx-a-spec-CZ57mWDqTtajjpifFVUz5Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:18:18",
+      "last_verified": "2026-10-10T11:12:33",
       "condition": "used",
       "city": "Victoria",
       "province": "BC"
@@ -110,6 +110,45 @@
       "province": "BC"
     },
     {
+      "name": "Used2020KiaSoulGT-Line Limited",
+      "vin": "KNDJ33AU2L7705165",
+      "stock": "SE27-12",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/93a220f80080.html",
+      "source_url": "https://www.kiavictoria.ca/inventory/2020-kia-soul-gt-line-limited-AhGLeH0rSt2UkxXjgRYF5gvdp",
+      "dealer_url": "https://www.kiavictoria.ca/inventory/2020-kia-soul-gt-line-limited-AhGLeH0rSt2UkxXjgRYF5gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T11:11:04",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
+    },
+    {
+      "name": "Used2020NissanRogueS",
+      "vin": "5N1AT2MT7LC811238",
+      "stock": "NR26-44",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/1d4c19048e12.html",
+      "source_url": "https://www.kiavictoria.ca/inventory/2020-nissan-rogue-s-DrA3HlpfRJWrLKC2GTCaLwvdp",
+      "dealer_url": "https://www.kiavictoria.ca/inventory/2020-nissan-rogue-s-DrA3HlpfRJWrLKC2GTCaLwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T11:11:15",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
+    },
+    {
+      "name": "Used2020NissanRogueSV",
+      "vin": "5N1AT2MV2LC791997",
+      "stock": "SE27-12",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/7ebadb5f586c.html",
+      "source_url": "https://www.kiavictoria.ca/inventory/2020-nissan-rogue-sv-X6tEzZRuScmtSeTKgrSkSgvdp",
+      "dealer_url": "https://www.kiavictoria.ca/inventory/2020-nissan-rogue-sv-X6tEzZRuScmtSeTKgrSkSgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T11:11:27",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
+    },
+    {
       "name": "Used2021KiaSoul EVEV Premium",
       "vin": "KNDJ23A28M7013804",
       "stock": "EV527-1",
@@ -117,7 +156,7 @@
       "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/63a4f6790109.html",
       "source_url": "https://www.kiavictoria.ca/inventory/2021-kia-soul-ev-ev-premium-CGTJ6E5GSeucsNacl2642gvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2021-kia-soul-ev-ev-premium-CGTJ6E5GSeucsNacl2642gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:18:31",
+      "last_verified": "2026-10-10T11:12:44",
       "condition": "used",
       "city": "Victoria",
       "province": "BC"
@@ -130,7 +169,7 @@
       "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/df9ed76db51d.html",
       "source_url": "https://www.kiavictoria.ca/inventory/2022-kia-ev6-long-range-w-gt-line-pkg-1-mSE254ckTPGl2v7crnQs9Qvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2022-kia-ev6-long-range-w-gt-line-pkg-1-mSE254ckTPGl2v7crnQs9Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:18:44",
+      "last_verified": "2026-10-10T11:12:55",
       "condition": "used",
       "city": "Victoria",
       "province": "BC"
@@ -221,7 +260,7 @@
       "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/7e2738684759.html",
       "source_url": "https://www.kiavictoria.ca/inventory/2023-kia-niro-ev-premium-xAyQimncRuiAVRqupDGEPgvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2023-kia-niro-ev-premium-xAyQimncRuiAVRqupDGEPgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:19:07",
+      "last_verified": "2026-10-10T11:13:18",
       "condition": "used",
       "city": "Victoria",
       "province": "BC"
@@ -247,7 +286,7 @@
       "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/0ce996c2b15b.html",
       "source_url": "https://www.kiavictoria.ca/inventory/2024-toyota-bz4x-xle-7L12VybnTzuMg3v7FzJYAQvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2024-toyota-bz4x-xle-7L12VybnTzuMg3v7FzJYAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:19:18",
+      "last_verified": "2026-10-10T11:13:30",
       "condition": "used",
       "city": "Victoria",
       "province": "BC"
@@ -273,7 +312,7 @@
       "url": "https://willyml1979-dotcom.github.io/kia-victoria-mirror/used/57971e259401.html",
       "source_url": "https://www.kiavictoria.ca/inventory/2026-kia-ev9-land-rHAKJFSnTie4mXsS3KpcMQvdp",
       "dealer_url": "https://www.kiavictoria.ca/inventory/2026-kia-ev9-land-rHAKJFSnTie4mXsS3KpcMQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:19:31",
+      "last_verified": "2026-10-10T11:13:42",
       "condition": "used",
       "city": "Victoria",
       "province": "BC"
